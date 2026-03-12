@@ -1,0 +1,4 @@
+{
+  "name": "micro-workflow-engine",
+  "version": "1.0.0",
+  "description": "微工作流引擎 - 简单轻量的多智能体协同工作流系统", "main": "server.js", "scripts": {"start": "node server.js", "dev": "node server.js"}, "keywords": ["micro", "workflow", "agent", "sync", "server"], "author": "", "license": "MIT", "dependencies": {"express": "^4.18.2", "cors": "^2.8.5"}}
