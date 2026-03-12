@@ -1,0 +1,38 @@
+# Node.js
+node_modules/
+package-lock.json
+npm-debug.log*
+
+# 敏感数据
+server-data.json
+*SMAW*.json
+*微工作流引擎私有数据*.json
+
+# 浏览器缓存
+*SMAW*Files/
+*工作流*Files/
+*_files/
+
+# 环境变量
+.env
+.env.local
+
+# 操作系统
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# IDE
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# 日志
+logs/
+*.log
+
+# 备份文件
+*.backup
+*.bak
